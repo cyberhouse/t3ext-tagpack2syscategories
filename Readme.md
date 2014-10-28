@@ -24,6 +24,3 @@ There are 2 commands available:
 * migrate the table "*tx_tagpack_categories*"
 * migrate the relation table "*tx_tagpack_tags_quodvide_mm*"
 
-## License
-
-This extension is licens
